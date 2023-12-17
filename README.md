@@ -6,5 +6,5 @@ Refer to https://www.kaggle.com/competitions/skku-amazon-production-rate-predict
 In this competition, we challenge you to predict the rate of products using all the machine-learning techniques we have covered so far in the course.
 
 [Model Reference]
-Sentence Transformers: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
-Roberta: https://huggingface.co/roberta-base
+[1] Sentence Transformers: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+[2] Roberta: https://huggingface.co/roberta-base
