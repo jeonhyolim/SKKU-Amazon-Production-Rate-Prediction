@@ -8,3 +8,4 @@ In this competition, we challenge you to predict the rate of products using all 
 [Model Reference]
 [1] Sentence Transformers: https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 [2] Roberta: https://huggingface.co/roberta-base
+[3] xlnet: https://huggingface.co/xlnet-base-cased
